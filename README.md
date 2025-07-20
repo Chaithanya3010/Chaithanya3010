@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on tech-for-good projects and analytics-driven solutions
 - 📫 How to reach me 
 🔗 [My Resume](https://chaithanya3010.github.io/chaitanyaresume.pdf)  
-💼 [LinkedIn](https://www.linkedin.com/in/chaithanya-rao/)
+💼 [LinkedIn][(https://www.linkedin.com/in/chaithanya-rao/)](https://www.linkedin.com/in/rao-chaithanya3010/)
 
 <!---
 Chaithanya3010/Chaithanya3010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
